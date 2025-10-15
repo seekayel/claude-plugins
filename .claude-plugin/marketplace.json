@@ -1,0 +1,13 @@
+{
+  "name": "seekayel/claude-plugins",
+  "owner": {
+    "name": "Kam Lasater"
+  },
+  "plugins": [
+    {
+      "name": "cmd",
+      "source": "./cmd",
+      "description": "Add pseudo command syntax for claude code"
+    }
+  ]
+}

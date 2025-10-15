@@ -1,0 +1,11 @@
+{
+    "name": "cmd",
+    "description": "Provide a code like command syntax for claude code",
+    "version": "0.0.1",
+    "author": {
+        "name": "Kam Lasater",
+        "url": "https://github.com/seekayel"
+    },
+    "repository": "https://github.com/seekayel/claude-plugins",
+    "license": "MIT"
+}
