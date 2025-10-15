@@ -2,6 +2,9 @@
 
 A collection of plugins for [Claude Code](https://claude.com/claude-code) that extend its functionality with command-line style syntax.
 
+![cmd plugin demo](plugin-cmd.gif)
+
+
 ## Installation
 
 Install plugins from the Claude Code Marketplace:
