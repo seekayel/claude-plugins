@@ -31,7 +31,8 @@ Pull github PR ${i} a code review focusing on security concerns.
 ```
 
 Will output:
-```Call /TodoWrite on [
+```
+Call /TodoWrite on [
 "Pull github PR 1 a code review focusing on security concerns.",
 "Pull github PR 2 a code review focusing on security concerns.",
 "Pull github PR 3 a code review focusing on security concerns."
