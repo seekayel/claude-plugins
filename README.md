@@ -10,7 +10,9 @@ A collection of plugins for [Claude Code](https://claude.com/claude-code) that e
 Install plugins from the Claude Code Marketplace:
 
 ```bash
-claude-code marketplace install seekayel/claude-plugins/cmd
+claude
+/plugin marketplace add seekayel/claude-plugins
+/plugin install cmd@claude-plugins
 ```
 
 After installation, restart your Claude Code session or reload your configuration.

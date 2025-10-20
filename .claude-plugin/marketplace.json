@@ -6,8 +6,9 @@
   "plugins": [
     {
       "name": "cmd",
-      "source": "./cmd",
-      "description": "Add pseudo command syntax for claude code"
+      "description": "Add pseudo command syntax for claude code",
+      "source": "./",
+      "strict": false
     }
   ]
 }
