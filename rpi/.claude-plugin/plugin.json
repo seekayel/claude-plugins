@@ -1,0 +1,11 @@
+{
+    "name": "rpi",
+    "description": "Claude command plugin for Research Plan Implement",
+    "version": "0.0.1",
+    "author": {
+        "name": "Kam Lasater",
+        "url": "https://github.com/seekayel"
+    },
+    "repository": "https://github.com/seekayel/claude-plugins",
+    "license": "MIT"
+}
