@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "hello-server": {
+      "command": "echo",
+      "args": ["Hello from MCP server example"],
+      "description": "A placeholder MCP server demonstrating configuration structure"
+    }
+  }
+}

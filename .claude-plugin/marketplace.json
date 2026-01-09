@@ -5,10 +5,18 @@
   },
   "plugins": [
     {
+      "name": "rpi",
+      "description": "Research-Plan-Implement workflow for structured development",
+      "source": "./rpi",
+      "category": "workflow",
+      "tags": ["research", "planning", "implementation"]
+    },
+    {
       "name": "cmd",
-      "description": "Add pseudo command syntax for claude code",
-      "source": "./",
-      "strict": false
+      "description": "Command syntax testbed - reference implementations of all plugin feature types",
+      "source": "./cmd",
+      "category": "developer-tools",
+      "tags": ["commands", "examples", "reference"]
     }
   ]
 }

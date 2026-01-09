@@ -1,7 +1,7 @@
 {
     "name": "cmd",
-    "description": "Provide a code like command syntax for claude code",
-    "version": "0.0.1",
+    "description": "Reference implementation testbed demonstrating all Claude Code plugin feature types (commands, agents, skills, hooks, MCP)",
+    "version": "0.0.2",
     "author": {
         "name": "Kam Lasater",
         "url": "https://github.com/seekayel"
